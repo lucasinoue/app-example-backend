@@ -8,6 +8,7 @@
       "type": "node",
       "request": "attach",
       "protocol": "inspector",
+      "port": 9300,
       "restart": true,
       "name": "Debug",
       "skipFiles": ["<node_internals>/**"],
