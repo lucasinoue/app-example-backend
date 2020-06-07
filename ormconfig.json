@@ -6,7 +6,7 @@
   "password": "postgres",
   "database": "gobarber_app",
   "entities": [
-    "./src/database/models/*.ts"
+    "./src/models/*.ts"
   ],
   "migrations": [
     "./src/database/migrations/*.ts"
